@@ -1,0 +1,5 @@
+Fronent deployment:
+https://pinnect.netlify.app
+
+Backend deployment:
+https://pinnect.sanity.studio/
